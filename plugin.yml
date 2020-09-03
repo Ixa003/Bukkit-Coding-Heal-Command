@@ -1,0 +1,32 @@
+name: Heal
+version: 1.0
+author: iXalazar_
+main: General.Core.Main
+description: Ningun comentario en espacial :) 
+commands:
+  heal:
+    aliases: [curar]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
