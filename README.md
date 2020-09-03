@@ -1,2 +1,2 @@
 # Bukkit-Coding | Heal-Command
-Comando /heal para minecraft.
+Plugins para Minecraft
